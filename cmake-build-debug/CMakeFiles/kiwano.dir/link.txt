@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/kiwano.dir/main.cpp.o CMakeFiles/kiwano.dir/lexer/lexer.cpp.o CMakeFiles/kiwano.dir/utils/utils.cpp.o CMakeFiles/kiwano.dir/parser/token.cpp.o CMakeFiles/kiwano.dir/parser/parser.cpp.o CMakeFiles/kiwano.dir/error.cpp.o -o kiwano 
